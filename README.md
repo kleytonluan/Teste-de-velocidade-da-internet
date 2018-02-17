@@ -11,7 +11,7 @@ chmod +x smtpserver.sh
 
 ./smtpserver.sh
 
-Sigua as instruções descritas nesse script.
+Siga as instruções descritas nesse script.
 Terminada a configuração do servidor smtp, execute o script de verificação da velocidade:
 
 - Para executar o script dê permissão de execução:
